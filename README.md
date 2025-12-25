@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pria Khatik
+# 👋 Hi, I am Priya Khatik
 
 📍 Tampa, FL, USA  
 📧 priakhatik@gmail.com
