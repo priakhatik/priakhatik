@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I’m a **Data Analytics Engineer** with 4+ years of experience building scalable data pipelines, analytics solutions, and business intelligence systems that turn raw data into actionable insights.
+I’m a **Data Analytics Engineer** with 5+ years of experience building scalable data pipelines, analytics solutions, and business intelligence systems that turn raw data into actionable insights.
 
 Currently pursuing my **Master’s in Artificial Intelligence & Business Analytics at the University of South Florida**, I combine strong foundations in data engineering, data warehousing, and advanced analytics with real-world industry experience.
 
