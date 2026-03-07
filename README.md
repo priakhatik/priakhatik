@@ -34,7 +34,7 @@ My work spans **data pipelines, dimensional modeling, analytics engineering, and
 - Supported multi-year replacement planning using **Asana**, improving forecast accuracy by **10%**  
 - Identified underutilized assets and implemented cost-recovery measures, recovering **$50K+** through reallocation  
 
-### 🏢 Data Engineer | Accenture  
+### 🏢 Data Analyst | Accenture  
 **Nov 2019 – Jul 2024**
 - Built automated data pipelines using **Python (Pandas, NumPy)** and **SQL**, ensuring reliability and scalability across analytics systems  
 - Designed and optimized **ETL workflows** in **BigQuery and Snowflake**, improving data freshness and query performance by **40%**  
