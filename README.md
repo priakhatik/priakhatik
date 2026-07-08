@@ -46,42 +46,6 @@ My work spans **data pipelines, dimensional modeling, analytics engineering, and
 
 ---
 
-## 🧩 Featured Projects
-
-### 🎬 Netflix – Streaming Analytics Data Platform
-**Tech:** AWS S3 • Databricks (PySpark) • Snowflake • dbt • Apache Airflow • SQL
-
-- Ingested raw user viewing events and content metadata into an AWS S3 data lake
-- Used Databricks (PySpark) for large-scale batch transformations and session-level aggregations
-- Loaded curated datasets into Snowflake for analytics and reporting
-- Built fact and dimension tables using dbt with tests, documentation, and lineage
-- Orchestrated end-to-end pipelines using Apache Airflow
-- Enabled analytics use cases such as content performance, user engagement, and retention analysis
-
----
-
-### 🚗 Tesla – Vehicle Telemetry & Fleet Analytics Platform
-**Tech:** Azure Data Lake • Databricks (Spark) • Snowflake • dbt • SQL • Power BI
-
-- Ingested high-volume vehicle telemetry and maintenance data into Azure Data Lake
-- Processed and aggregated time-series telemetry data using Databricks and Apache Spark
-- Modeled analytics-ready tables in Snowflake to track vehicle health, utilization, and failures
-- Applied dbt for standardized transformations and KPI definitions
-- Built Power BI dashboards to support predictive maintenance and fleet optimization decisions
-
----
-
-### 🔐 Cybersecurity – Security Log Analytics & Threat Detection Pipeline
-**Tech:** GCP Cloud Storage • Databricks (Spark) • Snowflake • SQL • Apache Airflow
-
-- Collected authentication logs and network security events into GCP Cloud Storage
-- Used Databricks and Spark to process high-volume log data and engineer security features
-- Stored historical security events and alerts in Snowflake for analytical querying
-- Automated ingestion and transformation workflows using Apache Airflow
-- Built analytical queries to identify anomaly patterns and support security investigations
-
----
-
 ## 🛠️ Technical Skills
 
 ### 👩‍💻 Programming & Scripting
